@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "Eliptic Wallet",
+    "version": "1.0",
+    "description": "Eliptic Wallet is a blockchain-based extension that allows users to manage their cryptocurrency accounts seamlessly. It provides secure and easy-to-use functionality for sending, receiving, and tracking the balance of your digital assets.",
+    "icons": {
+    },
+    "browser_action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": [
+      "activeTab"
+    ]
+  }
